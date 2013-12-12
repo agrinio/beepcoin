@@ -1,0 +1,4 @@
+beepcoin
+========
+
+Cryptocurrency coin
